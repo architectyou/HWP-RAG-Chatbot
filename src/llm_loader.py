@@ -22,6 +22,5 @@ class LLM :
         }
     
     def load_llm(self):
-        llm = ChatOllama(model="VirnectX-Llama3-Korean-8B-V2-Q4_K_M:latest", **self.params)
-        # llm = ChatOllama(model="VirnectX-Llama3-Korean-8B-V2-Q4_K_M:latest", **self.params)
+        llm = ChatOllama(model="EEVE-K", **self.params)
         return llm
