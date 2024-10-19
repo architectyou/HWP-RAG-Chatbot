@@ -1,0 +1,431 @@
+/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing Chroma from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import Chroma
+
+with new imports of:
+
+>> from langchain_community.vectorstores import Chroma
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+2024-08-21 15:36:24 - Load pretrained SentenceTransformer: BAAI/bge-m3
+2024-08-21 15:36:28 - Your app is available at http://localhost:8001
+2024-08-21 15:36:30 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 15:36:30 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-21 15:36:56 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 15:38:22 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 15:38:29 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 15:38:29 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-21 15:38:41 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_2e0d7304-781b-43b2-9112-de178530ed59_rouefzoa has been deleted.
+ChromaDB at /tmp/chroma_db_34b91dbf-c56c-4bab-9fb7-969a8737a40b_ur03pdt7 has been deleted.
+2024-08-21 16:08:03 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 16:08:03 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-21 16:33:19 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 16:36:49 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 17:03:23 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 17:03:29 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 17:23:13 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 17:23:13 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-21 17:23:21 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 17:27:14 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 17:27:45 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 17:54:12 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_7a61dc30-8b81-4fcb-b228-c2c960dc02cb_36k5vwol has been deleted.
+2024-08-21 18:02:25 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 18:26:55 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 18:27:15 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 18:27:15 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-21 18:27:17 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 18:27:17 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-21 18:27:26 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_e39674b0-1194-4aea-96ca-048e84056b68_2wxhgshw has been deleted.
+2024-08-21 18:27:42 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 18:27:42 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+ChromaDB at /tmp/chroma_db_239c4ddc-7f29-477d-9bdf-5be291d8abb3_5hyzp22i has been deleted.
+2024-08-21 18:28:05 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 18:30:58 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_4659e5e1-d24a-47be-9999-eff84d704bba_1yipvk53 has been deleted.
+ChromaDB at /tmp/chroma_db_10d19f63-6f92-49de-8ac2-7ec8adf7ae1d_itqzrb0e has been deleted.
+2024-08-21 18:39:25 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_f0f86adb-e6bb-4ce6-a8c5-735ae964ab9f_la0saaoc has been deleted.
+2024-08-21 18:39:28 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 18:39:28 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+ChromaDB at /tmp/chroma_db_be9040b5-e9f1-4543-bd2d-1fe7c318b2a0_lji0piu3 has been deleted.
+2024-08-21 18:40:56 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 18:41:37 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-21 19:09:47 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 05:57:09 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 05:57:09 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-22 05:57:12 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 05:57:13 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+ChromaDB at /tmp/chroma_db_e8b57740-196d-47c9-be2e-a285788c3c16__5y3bpsw has been deleted.
+2024-08-22 05:58:19 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 05:58:19 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-22 06:00:35 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 06:05:56 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 06:06:28 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 06:07:10 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_f87af8cb-0b55-4b66-9b99-d4b300fe6be2_a0x9qww4 has been deleted.
+2024-08-22 06:54:34 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 06:54:54 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 06:55:16 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain_core/_api/deprecation.py:141: LangChainDeprecationWarning: Since Chroma 0.4.x the manual persistence method is no longer supported as docs are automatically persisted.
+  warn_deprecated(
+/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain_core/_api/deprecation.py:141: LangChainDeprecationWarning: The method `BaseRetriever.get_relevant_documents` was deprecated in langchain-core 0.1.46 and will be removed in 1.0. Use invoke instead.
+  warn_deprecated(
+2024-08-22 06:57:22 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 06:59:22 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:00:06 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:01:39 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:02:54 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:04:36 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:07:01 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:11:07 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:11:23 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:12:34 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:12:58 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:14:55 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:15:34 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:15:50 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:16:41 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:17:41 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:17:48 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:18:14 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:20:55 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:22:39 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:26:50 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:28:19 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 07:47:41 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_f87af8cb-0b55-4b66-9b99-d4b300fe6be2_1o7gb21g has been deleted.
+2024-08-22 07:59:36 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_d1ce6b02-bf33-43e5-b1d3-a598fad9dc95_uhwhejt1 has been deleted.
+2024-08-22 09:28:25 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 09:28:25 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-22 09:30:56 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 09:31:50 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 09:31:56 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 09:32:11 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-08-22 09:32:11 - Number of requested results 20 is greater than number of elements in index 4, updating n_results = 4
+2024-08-22 09:32:45 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 09:33:25 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 09:33:25 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-22 09:33:37 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 09:41:53 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_6bbfcfd5-4d12-451b-859b-30423e0b7348_36l7wepd has been deleted.
+2024-08-22 09:42:03 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 09:44:42 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 09:44:57 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_b8deeaca-a4f8-4f84-9041-41f28748f0a0_1thlhiow has been deleted.
+2024-08-22 10:17:49 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 10:17:49 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-22 10:17:57 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 10:19:01 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 10:19:05 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-08-22 10:19:12 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 10:19:20 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 10:19:39 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 10:22:50 - Translation file for ko-KR not found. Using default translation en-US.
+/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing Chroma from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import Chroma
+
+with new imports of:
+
+>> from langchain_community.vectorstores import Chroma
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+2024-08-22 10:24:59 - Load pretrained SentenceTransformer: BAAI/bge-m3
+2024-08-22 10:25:03 - Your app is available at http://localhost:8001
+ERROR:    [Errno 98] error while attempting to bind on address ('0.0.0.0', 8001): address already in use
+2024-08-22 10:25:05 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 10:25:05 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-22 10:25:21 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 11:41:50 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 11:41:50 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-22 11:44:57 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 11:44:57 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-22 11:45:10 - Translation file for ko-KR not found. Using default translation en-US.
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/uvicorn/protocols/http/httptools_impl.py", line 426, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/engineio/async_drivers/asgi.py", line 74, in __call__
+    await self.other_asgi_app(scope, receive, send)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/middleware/cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/middleware/cors.py", line 148, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/chainlit/server.py", line 825, in upload_file
+    session.files_dir.mkdir(exist_ok=True)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/pathlib.py", line 1323, in mkdir
+    self._accessor.mkdir(self, mode)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/ubuntu/rag_chatbot/.files/07c87791-5510-4f1b-acd0-bf59bf75a2ac'
+2024-08-22 11:46:25 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_07c87791-5510-4f1b-acd0-bf59bf75a2ac_hai1g6xv has been deleted.
+2024-08-22 11:49:54 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 11:52:34 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 11:52:42 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_d1ce6b02-bf33-43e5-b1d3-a598fad9dc95_qmq3qv2v has been deleted.
+ChromaDB at /tmp/chroma_db_b0de6e64-421e-43e6-9028-e5f7450e25bc_xaxvogd8 has been deleted.
+2024-08-22 11:52:50 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 11:52:50 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-22 11:54:41 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 11:57:07 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_53a3a8d9-f59f-4e87-8006-d756841ead95_38hw9tx1 has been deleted.
+2024-08-22 11:59:17 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 11:59:17 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-22 11:59:25 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 11:59:32 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-08-22 12:00:24 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:00:35 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:00:52 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:01:26 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:01:53 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:03:56 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_241ac571-2cbd-4b36-9d79-25787117f14b_53xqzst1 has been deleted.
+2024-08-22 12:05:15 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:05:31 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:05:38 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:05:48 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:06:06 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-08-22 12:12:05 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:12:12 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:12:57 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:13:43 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:13:49 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:18:42 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:18:43 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-22 12:18:46 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:18:53 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-08-22 12:19:21 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 12:20:07 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_8ab09819-f609-4257-8589-d484d72de1ec_luxpe06c has been deleted.
+2024-08-22 14:17:39 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 14:17:39 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-22 14:18:02 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 14:23:56 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 14:24:04 - [Errno 2] No such file or directory: '/home/ubuntu/rag_chatbot/.files/164a728a-1f06-4a7d-b4f0-67dfe767eb7a/ed0be4d8-a53e-45a4-b146-458f118c4d26.pdf'
+Traceback (most recent call last):
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/chainlit/utils.py", line 44, in wrapper
+    return await user_function(**params_values)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/chainlit/__init__.py", line 164, in with_parent_id
+    await func(message)
+  File "main2.py", line 51, in on_message
+  File "/home/ubuntu/rag_chatbot/pdf_preprocesser.py", line 8, in content_extractor
+    with open(file_path, "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/ubuntu/rag_chatbot/.files/164a728a-1f06-4a7d-b4f0-67dfe767eb7a/ed0be4d8-a53e-45a4-b146-458f118c4d26.pdf'
+2024-08-22 14:24:06 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 14:24:27 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at /tmp/chroma_db_164a728a-1f06-4a7d-b4f0-67dfe767eb7a_pbvp7jm4 has been deleted.
+2024-08-22 14:31:12 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-22 14:31:12 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-22 14:31:14 - HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/chat (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7feb0601e460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Traceback (most recent call last):
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/urllib3/connection.py", line 196, in _new_conn
+    sock = connection.create_connection(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/urllib3/connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/urllib3/connectionpool.py", line 495, in _make_request
+    conn.request(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/urllib3/connection.py", line 398, in request
+    self.endheaders()
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/http/client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/http/client.py", line 1040, in _send_output
+    self.send(msg)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/http/client.py", line 980, in send
+    self.connect()
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/urllib3/connection.py", line 236, in connect
+    self.sock = self._new_conn()
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/urllib3/connection.py", line 211, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7feb0601e460>: Failed to establish a new connection: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/urllib3/connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/chat (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7feb0601e460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/chainlit/utils.py", line 44, in wrapper
+    return await user_function(**params_values)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/chainlit/__init__.py", line 164, in with_parent_id
+    await func(message)
+  File "main2.py", line 123, in on_message
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/asyncer/_main.py", line 358, in wrapper
+    return await anyio.to_thread.run_sync(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/asyncio/futures.py", line 284, in __await__
+    yield self  # This tells Task to wait for completion.
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/asyncio/tasks.py", line 328, in __wakeup
+    future.result()
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/asyncio/futures.py", line 201, in result
+    raise self._exception
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain_core/language_models/chat_models.py", line 276, in invoke
+    self.generate_prompt(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain_core/language_models/chat_models.py", line 776, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain_core/language_models/chat_models.py", line 633, in generate
+    raise e
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain_core/language_models/chat_models.py", line 623, in generate
+    self._generate_with_cache(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain_core/language_models/chat_models.py", line 845, in _generate_with_cache
+    result = self._generate(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain_community/chat_models/ollama.py", line 286, in _generate
+    final_chunk = self._chat_stream_with_aggregation(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain_community/chat_models/ollama.py", line 217, in _chat_stream_with_aggregation
+    for stream_resp in self._create_chat_stream(messages, stop, **kwargs):
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain_community/chat_models/ollama.py", line 189, in _create_chat_stream
+    yield from self._create_stream(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain_community/llms/ollama.py", line 234, in _create_stream
+    response = requests.post(
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/chat (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7feb0601e460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-26 09:32:39 - Loaded .env file
+/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing Chroma from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import Chroma
+
+with new imports of:
+
+>> from langchain_community.vectorstores import Chroma
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+2024-08-26 09:32:42 - Load pretrained SentenceTransformer: BAAI/bge-m3
+2024-08-26 09:32:47 - Your app is available at http://localhost:8001
+2024-08-26 09:32:49 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:32:49 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-26 09:32:52 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:32:52 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-26 09:32:53 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:34:49 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:34:50 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:34:50 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-26 09:39:47 - Loaded .env file
+Usage: chainlit run [OPTIONS] TARGET
+Try 'chainlit run --help' for help.
+
+Error: No such option: -p
+2024-08-26 09:42:10 - Loaded .env file
+/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing Chroma from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import Chroma
+
+with new imports of:
+
+>> from langchain_community.vectorstores import Chroma
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+2024-08-26 09:42:13 - Load pretrained SentenceTransformer: BAAI/bge-m3
+2024-08-26 09:42:18 - Your app is available at http://localhost:8001
+2024-08-26 09:42:20 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:42:20 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-26 09:42:53 - Loaded .env file
+/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing Chroma from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import Chroma
+
+with new imports of:
+
+>> from langchain_community.vectorstores import Chroma
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+2024-08-26 09:42:56 - Load pretrained SentenceTransformer: BAAI/bge-m3
+2024-08-26 09:43:00 - Your app is available at http://localhost:8001
+2024-08-26 09:43:02 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:43:02 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-26 09:43:10 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:43:15 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain_core/_api/deprecation.py:141: LangChainDeprecationWarning: Since Chroma 0.4.x the manual persistence method is no longer supported as docs are automatically persisted.
+  warn_deprecated(
+/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain_core/_api/deprecation.py:141: LangChainDeprecationWarning: The method `BaseRetriever.get_relevant_documents` was deprecated in langchain-core 0.1.46 and will be removed in 1.0. Use invoke instead.
+  warn_deprecated(
+2024-08-26 09:43:20 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:46:00 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:46:27 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:46:38 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:48:50 - Loaded .env file
+/home/ubuntu/miniforge3/envs/rag_chat/lib/python3.9/site-packages/langchain/_api/module_import.py:92: LangChainDeprecationWarning: Importing Chroma from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import Chroma
+
+with new imports of:
+
+>> from langchain_community.vectorstores import Chroma
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/v0.2/docs/versions/v0_2/>
+  warn_deprecated(
+2024-08-26 09:48:53 - Load pretrained SentenceTransformer: BAAI/bge-m3
+2024-08-26 09:48:57 - Your app is available at http://localhost:8001
+ERROR:    [Errno 98] error while attempting to bind on address ('0.0.0.0', 8001): address already in use
+2024-08-26 09:48:59 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:48:59 - Translated markdown file for ko-KR not found. Defaulting to chainlit.md.
+2024-08-26 09:49:01 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:49:35 - Translation file for ko-KR not found. Using default translation en-US.
+ChromaDB at ./chroma_db has been deleted.
+2024-08-26 09:54:17 - Translation file for ko-KR not found. Using default translation en-US.
+2024-08-26 09:54:22 - Translation file for ko-KR not found. Using default translation en-US.
