@@ -13,9 +13,6 @@ from langchain.retrievers import BM25Retriever, EnsembleRetriever
 from langchain_teddynote.retrievers import KiwiBM25Retriever
 import logging
 import tempfile
-
-from pdfminer.psparser import PSEOF
-
 import pdb
 
 logging.basicConfig(level=logging.INFO)
